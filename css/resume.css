@@ -83,6 +83,25 @@ p.lead {
   color: #1165be;
 }
 
+.project-info {
+  display: flex;
+  margin: 1rem 0rem 0rem 0rem;
+}
+
+.live-site {
+  margin-right: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.github {
+  margin-left: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
